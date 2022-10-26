@@ -1,1 +1,3 @@
-console.log("Hey yo!")
+console.log("Hey yo!");
+
+alert("Kesa ha!");
